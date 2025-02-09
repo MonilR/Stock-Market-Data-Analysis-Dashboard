@@ -1,2 +1,11 @@
-# Stock-Market-Data-Analysis-Dashboard
-This project extracts and analyzes financial data from popular stocks like Tesla, Amazon, AMD, and GameStop using Python and web scraping, then visualizes key trends in an interactive dashboard. The goal is to identify stock performance patterns through data-driven insights.  Author: Monil Prajapati, MS in CS, Lamar University
+Stock Market Data Analysis Dashboard
+
+This project involves extracting financial data, including historical share prices and quarterly revenue reports, using Python libraries and web scraping. The collected data is then analyzed and visualized in an interactive dashboard to identify trends in popular stocks such as Tesla, Amazon, AMD, and GameStop.
+
+Tasks:
+  - Extract stock data using web scraping and APIs
+  - Process and analyze financial data
+  - Visualize key performance indicators in a dashboard
+  - Identify patterns and trends in stock performance
+
+Author: Monil Prajapati, MS in CS, Lamar University
